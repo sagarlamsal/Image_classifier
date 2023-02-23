@@ -1,2 +1,3 @@
 # Image_classifier
-ML Image classifier model
+About the project:
+This model uses techniques taught in Machine Learning course to classifiy sets of images.
